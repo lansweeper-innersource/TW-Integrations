@@ -15,7 +15,7 @@ We’re looking for clear, accurate, and well-structured integration documentati
 ## ✍️ How to Contribute
 
 1. **Fork** this repository.
-2. **Copy the [Documentation Template](/template.md) into a new folder** named after your integration (e.g., `microsoft-teams/`).
+2. **Copy the [Documentation Template](/template.md) into a new folder** named after your integration (e.g., 'Microsoft Teams`).
 3. **Write your integration documentation** following the instructions in the template.
 4. **Submit a Pull Request (PR)** with your documentation additions.
 
@@ -32,7 +32,7 @@ Please make sure your content:
 - Is tested or validated for accuracy
 - Follows markdown formatting best practices
 
-If you're unsure, refer to the sample integration documents in this repository for examples.
+If you're unsure, refer to the other integration documents in this repository for examples.
 
 ## ✅ Review and Merge Process
 
