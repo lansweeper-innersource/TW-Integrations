@@ -1,76 +1,96 @@
-# Integrate Licenseware with Lansweeper
+# Licenseware
 
-The integration of Licenseware with Lansweeper offers a comprehensive solution that streamlines the process of gathering crucial license information. This integration removes the need to use manual methods or costly consultancy services to manage software assets. Instead, you can swiftly access granular data about your software assets, empowering you to make informed licensing decisions quickly and accurately.
+<!--
+🎨 Ownership key (for internal reference — can be removed or ignored by contributors)
+> 🔵 Blue = Integration provider-owned
+> 🟠 Orange = Lansweeper-owned
+-->
 
-This integration also allows you to effortlessly identify unsupported versions and potential security risks, ensuring proactive risk mitigation strategies. The Licenseware and Lansweeper integration supports effective software asset management, paving the way to enhanced compliance, cost optimization, and operational efficiency.
+---
 
-Additionally, the integration can support the following Licenseware apps: Microsoft, RedHat, and Oracle.
+## Integration Overview
 
-## Use cases
+| Detail           | Description                             |
+|------------------|-----------------------------------------|
+| **Availability** | Generally Available                     |
+| **Plan**         | Pro, Enterprise                         |
+| **Permission**   | Owner, Admin                            |
 
-The Licenseware integration supports the following use cases:
+---
 
-- Providing visibility into Java licensing compliance following Oracle’s pricing change
-- Supporting MSPs with effective software asset management
-- Managing Microsoft product deployments and licensing requirements
+## Overview
 
-## Create an API Connection
+[Licenseware](https://www.licenseware.io/) is a third-party solution that helps businesses manage licensing, assess compliance, and reduce software spend through modular, automation-driven apps.
 
-To integrate Licenseware and Lansweeper, we recommend creating an API connection, which allows Lansweeper data to automatically sync with Licenseware.
+Integrating **Licenseware** with **Lansweeper** allows you to automate the flow of device and software inventory data from Lansweeper to Licenseware applications, reducing manual work, improving audit readiness, and helping organizations make more informed licensing decisions.
 
-To create the API connection:
+## Use Cases
 
-1. In your Lansweeper Site, go to **Settings > Developer tools > All Applications**.  
-2. Select **Add new application**.  
-3. Select **Personal application > Continue**.  
-4. Enter a name for the application, such as “Licenseware API.”  
-5. In the Integration dropdown, select **Licenseware**.  
-6. Select **Add application**.  
-7. Select your application from the list.  
-8. Under **Sites authorization**, select **Authorize**.  
-9. Select when you want your access token to expire.  
-10. Select which of your sites you want to grant Licenseware access.  
-11. Copy the Application identity code.  
-12. Navigate to Licenseware and select the target project.  
-13. Select **Integrations**.  
-14. Select **Lansweeper Cloud > Configure**.  
-15. Paste your application code into the application identity code field.  
-16. Select **Update** to establish a connection between Lansweeper and Licenseware.  
-17. Toggle the following options if you want the data to sync:
-    - Hardware and visualization data  
+- Provide visibility into **Java licensing compliance**, following Oracle’s licensing model changes.
+- Manage Microsoft product deployments and licensing requirements. 
+- Help **MSPs** manage clients’ IT environments more holistically and cost-effectively
+- Support specialist apps (like **Microsoft**, **RedHat**, and **Oracle**) within Licenseware
+
+## Prerequisites
+
+- A Lansweeper Site where you're an admin or owner
+- A valid Licenseware account
+- Internet access between the two platforms (no firewalls blocking integration endpoints)
+
+## Integrate Licenseware with Lansweeper
+
+### Option 1 – Connect via API (Recommended)
+
+In your Lansweeper Site:
+
+1. Go to **Settings > Developer Tools > All Applications**.
+2. Select **Add new application**.
+3. Select **Personal application > Continue**.
+4. Enter a name for the application (e.g., `Licenseware API`).
+5. In the **Integration** dropdown, select **Licenseware**.
+6. Select **Add application**.
+7. From the list of applications, select your new one.
+8. Under **Sites Authorization**, select **Authorize**.
+9. Choose when you want your access token to expire.
+10. Select the site(s) you want to grant Licenseware access to.
+11. Copy the **Application Identity Code**.
+
+In Licenseware:
+
+12. Navigate to your **target project**.
+13. Go to **Integrations**.
+14. Select **Lansweeper Cloud > Configure**.
+15. Paste your Application Identity Code into the designated field.
+16. Click **Update** to complete the connection.
+17. (Optional) Toggle the data types you’d like to sync:
+    - Hardware and virtualization data  
     - Installed Microsoft software  
-    - Java installations and device user information  
+    - Java installations and device user information
 
-Once the connection is complete, Lansweeper’s data will automatically sync to Licenseware.
+Once complete, Lansweeper data will automatically sync to Licenseware.
 
-### Add Lansweeper data manually
+---
 
-Alternatively, you can manually add Lansweeper data to Licenseware using custom reports, if you’d prefer not to connect the solutions via API.
+### Option 2 – Add Lansweeper Data Manually
 
-To manually add Lansweeper data, follow the instructions on **How to get and use Lansweeper data for Microsoft Deployment Manager**. Although the instructions are specifically for the Microsoft Deployment Manager app, the same process can be applied to the other Licenseware apps.
+If you prefer not to connect via API, you can manually add data by exporting custom reports from Lansweeper and uploading them to Licenseware.
 
-## Leverage the Software Inventory Manager (SIM) app
+We recommend following the steps in the [Lansweeper API or Static](https://help.licenseware.io/mdm-lansweeper-integration) guide.
+> Although focused on Microsoft, the process can apply to apps like Oracle and RedHat as well.
 
-The SIM app, developed by Licenseware and powered by Lansweeper’s discovery technology, is designed to help you effectively manage your software assets. By providing a complete view of your software environment, SIM allows you to address key aspects of Software Asset Management (SAM) like compliance, cost efficiency, and risk mitigation.
+---
 
-SIM uses advanced recognition to identify all installed software and provides actionable insights to streamline decision-making.
+## Next Steps - Explore the Software Inventory Manager (SIM) App
 
-### Key benefits and use cases
+The **SIM app**, developed by Licenseware and powered by Lansweeper’s discovery technology, helps you manage your software landscape more effectively through automation and rich insights.
 
-- **Compliance and risk management:**  
-  SIM provides real-time insights into software assets, helping you identify areas at risk of non-compliance. This reduces the chance of costly audit penalties by flagging software requiring licensing or monitoring potential instances of shadow IT.
+By pulling accurate IT asset data from Lansweeper into SIM, you can address core areas of Software Asset Management (SAM), including compliance, cost optimization, and risk reduction.
 
-- **Cost efficiency:**  
-  With a focus on cost optimization, SIM helps rationalize software portfolios by highlighting redundant or underused installations, identifying budget-saving opportunities, and supporting more informed decisions on renewals, standardization, or discontinuation.
+Learn more:  
+[Lansweeper + Licenseware for Software Asset Management](https://www.lansweeper.com/product/integrations/financial-strategic-planning/licenseware/)
 
-- **Visibility and control:**  
-  SIM enhances asset visibility by creating a complete, up-to-date inventory that’s easy to track, making it simpler for IT teams to understand software usage patterns, manage software sprawl, and maintain control over licensing complexities.
+## More information
 
-To learn more about Licenseware and the SIM app, check out [**Lansweeper + Licenseware for Software Asset Management**](https://www.lansweeper.com/product/integrations/financial-strategic-planning/licenseware/).
-
-
-:::note
-
-Lansweeper’s APIs allow you to develop apps that seamlessly integrate our market-leading IT discovery and inventory platform. Find everything you need to get started in our **Developer Portal**.
-
-:::
+- [Licenseware integrations documentation](https://www.licenseware.io/docs](https://help.licenseware.io/mdm-lansweeper-integration)
+- [Licenseware.io + Lansweeper Integration Provides Visibility into Java Licensing Compliance Following Oracle’s Pricing Change](https://www.lansweeper.com/blog/partners-and-integrations/licenseware-io-lansweeper-integration-provides-visibility-into-java-licensing-compliance-following-oracles-pricing-change/)
+- [Licenseware and Lansweeper: A Powerful Combo for Effective Software Asset Management](https://www.lansweeper.com/blog/partners-and-integrations/licenseware-and-lansweeper-a-powerful-combo-for-effective-software-asset-management/)
