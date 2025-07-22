@@ -1,14 +1,8 @@
-# Licenseware
-
 <!--
 🎨 Ownership key (for internal reference — can be removed or ignored by contributors)
 > 🔵 Blue = Integration provider-owned
 > 🟠 Orange = Lansweeper-owned
 -->
-
----
-
-## Integration Overview
 
 | Detail           | Description                             |
 |------------------|-----------------------------------------|
@@ -91,6 +85,6 @@ Learn more:
 
 ## More information
 
-- [Licenseware integrations documentation](https://www.licenseware.io/docs](https://help.licenseware.io/mdm-lansweeper-integration)
+- [Licenseware integrations documentation](https://help.licenseware.io/mdm-lansweeper-integration)
 - [Licenseware.io + Lansweeper Integration Provides Visibility into Java Licensing Compliance Following Oracle’s Pricing Change](https://www.lansweeper.com/blog/partners-and-integrations/licenseware-io-lansweeper-integration-provides-visibility-into-java-licensing-compliance-following-oracles-pricing-change/)
 - [Licenseware and Lansweeper: A Powerful Combo for Effective Software Asset Management](https://www.lansweeper.com/blog/partners-and-integrations/licenseware-and-lansweeper-a-powerful-combo-for-effective-software-asset-management/)
