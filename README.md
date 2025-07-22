@@ -51,7 +51,6 @@ By contributing documentation to this repository:
 - Lansweeper retains ownership of the repository’s structure and formatting.
 - You accept responsibility for ensuring your integration documentation stays accurate and up-to-date.
 - Any issues, bugs, or inaccuracies in your contributed section should be addressed by you or your team.
-- Lansweeper is not responsible for maintaining third-party integration documentation.
 
 If your integration becomes deprecated or changes significantly, please update your documentation or notify us via a GitHub Issue or Pull Request.
 
