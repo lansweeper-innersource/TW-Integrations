@@ -15,7 +15,7 @@ We’re looking for clear, accurate, and well-structured integration documentati
 ## ✍️ How to Contribute
 
 1. **Fork** this repository.
-2. **Copy the [Documentation Template](./template/README.md) into a new folder** named after your integration (e.g., `microsoft-teams/`).
+2. **Copy the [Documentation Template](/template.md) into a new folder** named after your integration (e.g., `microsoft-teams/`).
 3. **Write your integration documentation** following the instructions in the template.
 4. **Submit a Pull Request (PR)** with your documentation additions.
 
@@ -25,7 +25,7 @@ Our team will review your contribution and may leave feedback or request changes
 
 To ensure consistency across integration docs, please follow our standard structure. You can find it here:
 
-📄 [`template/README.md`](./template/README.md)
+📄 [`template.md`](/template.md)
 
 Please make sure your content:
 - Uses clear, concise language
@@ -39,6 +39,7 @@ If you're unsure, refer to the sample integration documents in this repository f
 - PRs will be reviewed by the Lansweeper Technical Writing team
 - You’ll be notified of any requested changes
 - Once approved, your integration docs will be added to the repo!
+- The documentation will be published here: [Enter link]
 
 ## 📜 License and Contributor Responsibility
 
