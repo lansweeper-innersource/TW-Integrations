@@ -1,0 +1,43 @@
+Integrate **Lansweeper** with **CI Sync** to automate data synchronization from IT, OT, and IoT assets into your **ServiceNow CMDB**.  
+This integration ensures your CMDB remains accurate and continuously updated, helping improve IT operations, compliance, and risk management.
+
+**CI Sync** is a turnkey solution that connects Lansweeper and ServiceNow, enabling organizations to achieve CMDB automation in days rather than months. It delivers reliable configuration item (CI) synchronization supported by enterprise-grade scalability, security, and data privacy controls.
+
+Delivered as a **Software‑as‑a‑Service (SaaS)** solution, each CI Sync instance is hosted per customer in a chosen region and enrolled as an **Enterprise Application** in Azure Active Directory. This architecture supports security, data sovereignty, and rapid deployment.  
+
+CI Sync provides a simple user interface to define synchronization jobs, monitor results, and manage notifications. It supports both **delta synchronization** and **full record re-synchronization**, dynamically scaling to handle hundreds of thousands of records per hour to keep your CMDB refreshed daily.
+
+## Use Cases
+
+- Automate Lansweeper asset data synchronization into ServiceNow CMDB.  
+- Establish accurate relationships between configuration items (CIs).  
+- Keep ServiceNow records continuously aligned with Lansweeper asset discovery.  
+- Reduce compliance, cyber, and operational risk through accurate, timely data.  
+
+## Prerequisites
+
+Before you begin, ensure the following requirements are met:
+
+- Active **Lansweeper Site** with Marketplace access.  
+- Configured **ServiceNow CMDB** instance.  
+- **Azure Active Directory integration** for authentication when scheduling synchronization jobs and reviewing logs.  
+- **On‑premise Windows VM** hosting the CI Sync Agent for Lansweeper.  
+  - This can be the same server running your Lansweeper Scanning Service.  
+
+## Integrate CI Sync with Lansweeper
+
+To get CI Sync and integrate it with Lansweeper, contact [Lansweeper](https://www.lansweeper.com/contact/contact-sales/).
+
+## Next Steps
+
+To learn more about using CI Sync and its capabilities, explore the available demonstration materials:
+
+- [Digital certificate integration](https://www.youtube.com/watch?v=hVwhfLabr-U&list=PL-MlsB87IqF-QN5m5aY-RhfCgXvqfbLYJ&index=1&pp=iAQB)
+- [Windows services for endpoint protection](https://www.youtube.com/watch?v=wE10KomLN9M&list=PL-MlsB87IqF-QN5m5aY-RhfCgXvqfbLYJ&index=2&pp=iAQB)
+- [ServiceNow asset management form examples](https://www.youtube.com/watch?v=32zH-RpsvNs&list=PL-MlsB87IqF-QN5m5aY-RhfCgXvqfbLYJ&index=3&pp=iAQB)
+- [ServiceNow dependency diagrams and relationship visualizations](https://www.youtube.com/watch?v=XK7NmzJEd6g&list=PL-MlsB87IqF-QN5m5aY-RhfCgXvqfbLYJ&index=4&pp=iAQB)
+
+## More Information
+
+- [Compare CI Sync Editions](https://www.syncfish.com.au/compare-ci-synchronizer-editions/)  
+- [Lansweeper API Reference](https://developer.lansweeper.com/)
