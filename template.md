@@ -16,7 +16,9 @@
 
 ---
 
-:::(Warning) (Note on third‑party tools) We aim to provide accurate and helpful details about third‑party tools, but we can’t guarantee that this information is always complete or up to date. If you notice any discrepancies, feel free to share them in the feedback section below. For the most reliable information, please always refer to the third‑party tool’s official documentation. :::
+:::(Warning) (Note on third‑party tools) 
+We aim to provide accurate and helpful details about third‑party tools, but we can’t guarantee that this information is always complete or up to date. If you notice any discrepancies, feel free to share them in the feedback section below. For the most reliable information, please always refer to the third‑party tool’s official documentation. 
+:::
 
 🔵
 
@@ -27,9 +29,7 @@ Explain the **purpose** of the integration and what it enables users to do.
 _Example:_  
 Integrate **[Tool Name]** with Lansweeper to _automate asset sync, enhance vulnerability management, trigger alerts_, etc.
 
----
-
-## 🔵 Use Cases
+## 🔵 Use cases
 
 List the kinds of tasks or workflows this integration enables, for example:
 
@@ -57,11 +57,9 @@ Step-by-step instructions.
 2. Another step.
 3. Another step. 
 
-Task result..  
+Task result.
 
----
-
-## 🔵🟠 Next Steps (Optional)
+## 🔵🟠 Next steps (Optional)
 
 Recommended follow-up actions after successful setup:
 
@@ -69,9 +67,7 @@ Recommended follow-up actions after successful setup:
 - Set up custom dashboards or reports using the integrated data
 - Assign appropriate permissions in both tools to manage access
 
----
-
-## 🔵 More Information
+## 🔵 More information
 
 Links to supporting materials, such as:
 
