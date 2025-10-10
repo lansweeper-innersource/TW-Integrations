@@ -1,10 +1,8 @@
 # [Tool Name]
 
-<!--
 🎨 **Ownership key**  
 > 🔵 Blue = Integration provider-owned   
 > 🟠 Orange = Lansweeper-owned
--->
 
 ---
 🟠
