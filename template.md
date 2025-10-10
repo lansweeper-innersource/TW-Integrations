@@ -16,6 +16,8 @@
 
 ---
 
+:::(Warning) (Note on third‑party tools) We aim to provide accurate and helpful details about third‑party tools, but we can’t guarantee that this information is always complete or up to date. If you notice any discrepancies, feel free to share them in the feedback section below. For the most reliable information, please always refer to the third‑party tool’s official documentation. :::
+
 🔵
 
 Briefly introduce the third-party tool and Lansweeper.
