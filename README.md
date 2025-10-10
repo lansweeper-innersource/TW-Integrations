@@ -39,7 +39,7 @@ If you're unsure, refer to the other integration documents in this repository fo
 - PRs will be reviewed by the Lansweeper Technical Writing team
 - You’ll be notified of any requested changes
 - Once approved, your integration docs will be added to the repo!
-- The documentation will be published here: [Enter link]
+- The documentation will be published here: [Coming Soon]
 
 ## 📜 License and Contributor Responsibility
 
