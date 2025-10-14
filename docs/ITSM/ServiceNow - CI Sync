@@ -1,11 +1,11 @@
-Integrate **Lansweeper** with **CI Sync** to automate data synchronization from IT, OT, and IoT assets into your **ServiceNow CMDB**.  
+Integrate Lansweeper with CI Sync to automate data synchronization from IT, OT, and IoT assets into your ServiceNow CMDB.  
 This integration ensures your CMDB remains accurate and continuously updated, helping improve IT operations, compliance, and risk management.
 
-**CI Sync** is a turnkey solution that connects Lansweeper and ServiceNow, enabling organizations to achieve CMDB automation in days rather than months. It delivers reliable configuration item (CI) synchronization supported by enterprise-grade scalability, security, and data privacy controls.
+CI Sync is a turnkey solution that connects Lansweeper and ServiceNow, enabling organizations to achieve CMDB automation in days rather than months. It delivers reliable configuration item (CI) synchronization supported by enterprise-grade scalability, security, and data privacy controls.
 
-Delivered as a **Software‑as‑a‑Service (SaaS)** solution, each CI Sync instance is hosted per customer in a chosen region and enrolled as an **Enterprise Application** in Azure Active Directory. This architecture supports security, data sovereignty, and rapid deployment.  
+Delivered as a Software‑as‑a‑Service (SaaS) solution, each CI Sync instance is hosted per customer in a chosen region and enrolled as an Enterprise Application in Azure Active Directory. This architecture supports security, data sovereignty, and rapid deployment.  
 
-CI Sync provides a simple user interface to define synchronization jobs, monitor results, and manage notifications. It supports both **delta synchronization** and **full record re-synchronization**, dynamically scaling to handle hundreds of thousands of records per hour to keep your CMDB refreshed daily.
+CI Sync provides a simple user interface to define synchronization jobs, monitor results, and manage notifications. It supports both delta synchronization and full record re-synchronization, dynamically scaling to handle hundreds of thousands of records per hour to keep your CMDB refreshed daily.
 
 ## Use Cases
 
