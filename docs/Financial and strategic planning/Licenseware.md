@@ -6,6 +6,8 @@ We aim to provide accurate and helpful details about third‑party tools, but we
 
 Integrating **Licenseware** with **Lansweeper** allows you to automate the flow of device and software inventory data from Lansweeper to Licenseware applications, reducing manual work, improving audit readiness, and helping organizations make more informed licensing decisions.
 
+NEW CHANGE
+
 ## Use Cases
 
 - Provide visibility into **Java licensing compliance**, following Oracle’s licensing model changes.
