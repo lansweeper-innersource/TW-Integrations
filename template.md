@@ -1,12 +1,5 @@
 # [Tool Name]
 
-🎨 **Ownership key**  
-> 🔵 Blue = Integration provider-owned   
-> 🟠 Orange = Lansweeper-owned
-
----
-🟠
-
 | Detail       | Description                         |
 |--------------|-------------------------------------|
 | **Availability** | Beta, Preview, Generally Available  |
@@ -20,7 +13,6 @@
 We aim to provide accurate and helpful details about third‑party tools, but we can’t guarantee that this information is always complete or up to date. If you notice any discrepancies, feel free to share them in the feedback section below. For the most reliable information, please always refer to the third‑party tool’s official documentation. 
 :::
 
-🔵
 
 Briefly introduce the third-party tool and Lansweeper.
 
@@ -29,7 +21,7 @@ Explain the **purpose** of the integration and what it enables users to do.
 _Example:_  
 Integrate **[Tool Name]** with Lansweeper to _automate asset sync, enhance vulnerability management, trigger alerts_, etc.
 
-## 🔵 Use cases
+## Use cases
 
 List the kinds of tasks or workflows this integration enables, for example:
 
@@ -38,7 +30,7 @@ List the kinds of tasks or workflows this integration enables, for example:
 - Visualize Lansweeper data inside **[Tool Name]**'s dashboard
 - Enable cross-platform automation workflows
 
-## 🔵🟠 Prerequisites
+##  Prerequisites
 
 Ensure users know what systems, access, versions, or licenses are required before they begin. 
 
@@ -49,7 +41,7 @@ Include bullets like:
 - Admin rights in both platforms 
 - Network access between both systems 
 
-## 🔵🟠 Integrate [Tool Name] with Lansweeper
+## Integrate [Tool Name] with Lansweeper
 
 Step-by-step instructions. 
 
@@ -59,7 +51,7 @@ Step-by-step instructions.
 
 Task result.
 
-## 🔵🟠 Next steps (Optional)
+## Next steps (Optional)
 
 Recommended follow-up actions after successful setup:
 
@@ -67,7 +59,7 @@ Recommended follow-up actions after successful setup:
 - Set up custom dashboards or reports using the integrated data
 - Assign appropriate permissions in both tools to manage access
 
-## 🔵 More information
+## More information
 
 Links to supporting materials, such as:
 
