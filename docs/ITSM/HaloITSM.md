@@ -17,15 +17,11 @@ Integrating HaloITSM with Lansweeper allows organisations to synchronise discove
 
 This integration enables:
 
-- 🔍 **Automated IT asset discovery in HaloITSM**: Sync hardware, software, and network inventory directly from Lansweeper.
-
-- 🔄 **Continuous CMDB enrichment**: Keep configuration item data accurate without manual updates.
-
-- 🧩 **Improved incident and request handling**:  Allow technicians to immediately view linked device details when working on tickets.
-
-- 📊 **Enhanced reporting and compliance**: Use Lansweeper-powered asset details to improve audits, software compliance, and lifecycle management.
-
-- ⚙️ **Cross-platform automation**: Trigger HaloITSM workflows based on changes detected in Lansweeper (e.g., new device discovered, software changes).
+- **Automated IT asset discovery in HaloITSM**: Sync hardware, software, and network inventory directly from Lansweeper.
+- **Continuous CMDB enrichment**: Keep configuration item data accurate without manual updates.
+- **Improved incident and request handling**:  Allow technicians to immediately view linked device details when working on tickets.
+- **Enhanced reporting and compliance**: Use Lansweeper-powered asset details to improve audits, software compliance, and lifecycle management.
+- **Cross-platform automation**: Trigger HaloITSM workflows based on changes detected in Lansweeper (e.g., new device discovered, software changes).
 
 ##  Prerequisites
 
