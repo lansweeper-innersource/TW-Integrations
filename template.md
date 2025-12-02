@@ -1,16 +1,7 @@
 # [Tool Name]
 
-| Detail       | Description                         |
-|--------------|-------------------------------------|
-| **Availability** | Beta, Preview, Generally Available  |
-| **Plan**         | Starter, Pro, Enterprise            |
-| **Permission**   | Owner, Admin                        |
-
-
----
-
 :::(Warning) (Note on third‑party tools) 
-We aim to provide accurate and helpful details about third‑party tools, but we can’t guarantee that this information is always complete or up to date. If you notice any discrepancies, feel free to share them in the feedback section below. For the most reliable information, please always refer to the third‑party tool’s official documentation. 
+We aim to provide accurate and helpful details about third‑party tools, but we can’t guarantee that this information is always complete or up to date. For the most reliable information, please always refer to the third‑party tool’s official documentation. 
 :::
 
 
@@ -36,7 +27,7 @@ Ensure users know what systems, access, versions, or licenses are required befor
 
 Include bullets like: 
 
-- Active Lansweeper installation (version X or higher) 
+- Active Lansweeper installation
 - Valid credentials or API tokens for [Tool Name] 
 - Admin rights in both platforms 
 - Network access between both systems 
@@ -53,7 +44,7 @@ Task result.
 
 ## Next steps (Optional)
 
-Recommended follow-up actions after successful setup:
+Recommended follow-up actions after successful setup, such as:
 
 - Configure alerts, automated workflows, or webhooks
 - Set up custom dashboards or reports using the integrated data
