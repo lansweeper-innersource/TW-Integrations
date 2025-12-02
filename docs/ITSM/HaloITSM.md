@@ -1,7 +1,7 @@
 <!--# [HaloITSM]-->
 
 :::(Warning) (Note on third‑party tools) 
-We aim to provide accurate and helpful details about third‑party tools, but we can’t guarantee that this information is always complete or up to date. If you notice any discrepancies, feel free to share them in the feedback section below. For the most reliable information, please always refer to the third‑party tool’s official documentation. 
+We aim to provide accurate and helpful details about third‑party tools, but we can’t guarantee that this information is always complete or up to date. For the most reliable information, please always refer to the third‑party tool’s official documentation. 
 :::
 
 HaloITSM is a fully integrated Enterprise Service Management platform designed to simplify service delivery, automate processes, and improve visibility across enterprise operations.
@@ -9,13 +9,11 @@ HaloITSM is a fully integrated Enterprise Service Management platform designed t
 HaloITSM can consume Lansweeper data using either:
 
 - Halo Asset Discovery for Lansweeper Sites
-- The Lansweeper Integration for direct connectivity to an existing Lansweeper On-Premises or self-hosted environment
+- Halo's Lansweeper Integration for direct connectivity to an existing Lansweeper On-Premises or self-hosted environment
 
-Integrating HaloITSM with Lansweeper allows organisations to synchronise discovered assets directly into HaloITSM, enriching the CMDB and ensuring teams always work with up-to-date device and software information. This supports better incident management, streamlined change processes, and stronger compliance controls.
+Integrating HaloITSM with Lansweeper allows organizations to synchronize discovered assets directly into HaloITSM, enriching the CMDB and ensuring teams continuously work with up-to-date device and software information. This supports better incident management, streamlined change processes, and stronger compliance controls.
 
 ## Use cases
-
-This integration enables:
 
 - **Automated IT asset discovery in HaloITSM**: Sync hardware, software, and network inventory directly from Lansweeper.
 - **Continuous CMDB enrichment**: Keep configuration item data accurate without manual updates.
@@ -29,10 +27,10 @@ This integration enables:
 - A HaloITSM environment where you have Admin permissions
 - An active Lansweeper Site with API access 
 
-**Lansweeper Integration for Lansweeper On-Premises**:
+**Halow's Lansweeper Integration for Lansweeper On-Premises**:
 - A HaloITSM environment where you have Admin permissions
 - A complete, standalone Lansweeper On-Premises installation
-- An On-Premise Halo Integrator to facilitate the daily sync of data
+- An on-premises Halo Integrator to facilitate the daily sync of data
 
 ## Integrate Halo Asset Discovery with Lansweeper Sites
 
@@ -45,9 +43,9 @@ Halo Asset Discovery is recommended for users with a Lansweeper Site. This optio
 5. Run the initial import and verify that assets appear correctly in the CMDB.
 6. Enable ongoing synchronization to keep asset information up to date.
 
-## Integrate Lansweeper Integration with Lansweeper On-Premises
+## Integrate Halo's Lansweeper Integration with Lansweeper On-Premises
 
-The **Lansweeper Integration** is recommended only for users with a standalone **Lansweeper On‑Premises** installation.
+Halow's Lansweeper Integration is recommended only for users with a standalone **Lansweeper On‑Premises** installation.
 
 1. In your HaloITSM environment, go to **Configuration > Integrations > CMDB** and enable **Lansweeper Integration**.
 2. Enter your credentials for read-only access to the database where your Lansweeper environment is installed.
@@ -60,15 +58,15 @@ The **Lansweeper Integration** is recommended only for users with a standalone *
 
 After you connect HaloITSM and Lansweeper, you can:
 
-- Set up **automated workflows** that trigger when asset data changes  
-- Create **visual dashboards** in HaloITSM to track asset health, software usage, and lifecycle stages  
-- Link **Incidents**, **Problems**, and **Changes** to discovered configuration items (CIs) for full traceability  
-- Configure **user permissions** for teams that manage assets or work with CMDB modules
+- Set up automated workflows that trigger when asset data changes.
+- Create visual dashboards in HaloITSM to track asset health, software usage, and lifecycle stages.
+- Link Incidents, Problems, and Changes to discovered configuration items (CIs) for full traceability.
+- Configure user permissions for teams that manage assets or work with CMDB modules.
 
 ## More information
 
-- [HaloITSM Guides Page](https://usehalo.com/haloitsm/guides/)
-- [Lansweeper integration guide](https://usehalo.com/haloitsm/guides/1073)
-- [Halo Integrator Guide](https://usehalo.com/haloitsm/guides/1766)
+- [HaloITSM guides](https://usehalo.com/haloitsm/guides/)
+- [Lansweeper Integration guide](https://usehalo.com/haloitsm/guides/1073)
+- [Halo Integrator guide](https://usehalo.com/haloitsm/guides/1766)
 - [Halo Asset Discovery integration guide](https://usehalo.com/haloitsm/guides/1783)
 - [Best practices for CMDB (Service Automation Framework)](https://haloitsm.com/wp-content/uploads/2024/01/Service-Automation-Framework-9.pdf)
