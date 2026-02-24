@@ -1,7 +1,7 @@
 <!--# [HaloITSM]-->
 
 :::(Warning) (Note on third‑party tools) 
-We aim to provide accurate and helpful details about third‑party tools, but we can’t guarantee that this information is always complete or up to date. For the most reliable information, please always refer to the third‑party tool’s official documentation. 
+We aim to provide accurate and helpful details about third‑party tools, but we can’t guarantee that this information is always complete or up to date. For the most reliable information, please always refer to the third‑party tool’s official documentation.
 :::
 
 HaloITSM is a fully integrated Enterprise Service Management platform designed to simplify service delivery, automate processes, and improve visibility across enterprise operations.
