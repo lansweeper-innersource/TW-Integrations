@@ -26,7 +26,7 @@ The Lansweeper App for Jira Service Management Assets enables seamless and effic
 ## Prerequisites
 
 - A properly configured Jira Cloud instance.
-- A Premium or Enterprise plan for the Jira Service Management cloud. See [Change your plan](https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/#Change-your-plan) for more information.
+- A Standard, Premium or Enterprise plan for the Service Collection and Jira Service Management cloud. See [Change your plan](https://support.atlassian.com/jira-cloud-administration/docs/explore-jira-cloud-plans/#Change-your-plan) for more information.
 - A Pro or Enterprise plan for Lansweeper. See [Pricing & Plans](https://www.lansweeper.com/pricing/) for more information.
 - A Jira admin user.
 
@@ -47,8 +47,9 @@ The Lansweeper App for Jira Service Management Assets enables seamless and effic
 
 1. In your Jira Service Management account, go to **Apps > Explore more apps**.
 2. In the search bar, enter **Lansweeper App for Jira Service Management Assets**.
-3. Select **Lansweeper App for Jira Service Management Assets**, then select **Get it now**. 
+3. Select **Lansweeper App for Jira Service Management Assets**, then select **Get it now**.
 4. The installation process begins. A message appears once the successful installation is completed.
+
 
 :::(Info)
 If you don't get the success notification for the installation, create an Atlassian support ticket, explain the issue, and attach a screenshot of the message.
@@ -87,6 +88,9 @@ We recommend [creating a new Object Schema](https://support.atlassian.com/jira-s
 3. Select **Create a blank schema**.
 4. Fill in the schema information fields.
 5. Select **Create schema**.
+6. In the Object Schema view, select **Schema configuration** on the left.
+7. Select the **Roles** tab.
+8. Add the Lansweeper app to the Object Schema Manager role.
 
 ### Configure the import
 
