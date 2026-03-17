@@ -89,7 +89,7 @@ We recommend [creating a new Object Schema](https://support.atlassian.com/jira-s
 4. Fill in the schema information fields.
 5. Select **Create schema**.
 6. In the Object Schema view, select **Schema configuration** on the left.
-7. Select **Roles** tab
+7. Select the **Roles** tab.
 8. Add the Lansweeper app to the Object Schema Manager role.
 
 ### Configure the import
