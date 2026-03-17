@@ -4,7 +4,7 @@
 We aim to provide accurate and helpful details about third‑party tools, but we can't guarantee that this information is always complete or up to date. For the most reliable information, please always refer to the third‑party tool's official documentation.
 :::
 
-The Lansweeper App for Jira Service Management (JSM) enriches JSM issues with related Lansweeper assets. The app helps users identify and associate assets with tickets quickly, reducing time spent on manual lookups during incident resolution.
+The Lansweeper App for Jira Service Management (JSM) enriches JSM issues with related Lansweeper assets. The app helps you identify and associate assets with tickets quickly, reducing time spent on manual lookups during incident resolution.
 
 Integrate **Lansweeper App for Jira Service Management** with Lansweeper to automatically surface relevant assets within Jira issues, link related tickets, and give technicians immediate context when working on incidents.
 
@@ -59,7 +59,7 @@ If you don't get the success notification for the installation, create an Atlass
 
 The app requires a Personal Access Token (PAT) from Lansweeper to make API calls from Jira to Lansweeper.
 
-1. [Generate a Personal Access Token (PAT).](https://developer.lansweeper.com/classic/docs/data-api/get-started/quickstart/#personal-access-token-pat) Ensure that you choose the API client type as **PAT (Personal Access Token)**.
+1. [Generate a Personal Access Token (PAT).](https://developer.lansweeper.com/docs/data-api/get-started/quickstart/#personal-access-token-pat) Ensure that you choose the API client type as **PAT (Personal Access Token)**.
 2. We recommend setting a long expiration period or no expiration for the token to allow the app to function without interruption.
 
 ### Connect Lansweeper and Jira
